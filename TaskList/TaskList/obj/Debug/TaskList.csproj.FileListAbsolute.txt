@@ -1,0 +1,112 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\ApplicationInsights.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\TaskList.dll.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\TaskList.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\TaskList.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Antlr3.Runtime.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\EntityFramework.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\EntityFramework.SqlServer.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.AI.DependencyCollector.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.AI.Web.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.AI.WindowsServer.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.ApplicationInsights.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.Web.Infrastructure.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Newtonsoft.Json.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.Helpers.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.Mvc.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.Optimization.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.Razor.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.WebPages.Deployment.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.WebPages.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.WebPages.Razor.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\WebGrease.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\EntityFramework.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\EntityFramework.SqlServer.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.Helpers.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.Mvc.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.Optimization.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.Razor.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.WebPages.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.WebPages.Deployment.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\System.Web.WebPages.Razor.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Antlr3.Runtime.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Newtonsoft.Json.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.ApplicationInsights.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.AI.DependencyCollector.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.AI.WindowsServer.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\Microsoft.AI.Web.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\ru\System.Web.Helpers.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\ru\System.Web.Mvc.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\ru\System.Web.Optimization.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\ru\System.Web.Razor.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\ru\System.Web.WebPages.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\obj\Debug\TaskList.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\obj\Debug\TaskList.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\obj\Debug\TaskList.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\obj\Debug\TaskList.Migrations.Migr01.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\obj\Debug\TaskList.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\obj\Debug\TaskList.Migrations.Migr02.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\TaskList\TaskList\TaskList\obj\Debug\TaskList.csprojResolveAssemblyReference.cache
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\obj\Debug\TaskList.Migrations.Migr01.resources
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\obj\Debug\TaskList.Migrations.Migr02.resources
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\obj\Debug\TaskList.csproj.GenerateResource.cache
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\obj\Debug\TaskList.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\obj\Debug\TaskList.pdb
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\ApplicationInsights.config
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\TaskList.dll.config
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\TaskList.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\TaskList.pdb
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Antlr3.Runtime.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\EntityFramework.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\EntityFramework.SqlServer.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.AI.Web.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Newtonsoft.Json.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.Helpers.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.Mvc.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.Optimization.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.Razor.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.WebPages.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.WebPages.Razor.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\WebGrease.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\EntityFramework.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\EntityFramework.SqlServer.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.Helpers.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.Mvc.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.Optimization.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.Razor.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.WebPages.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\System.Web.WebPages.Razor.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Antlr3.Runtime.pdb
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Newtonsoft.Json.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.ApplicationInsights.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\Microsoft.AI.Web.xml
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\ru\System.Web.Razor.resources.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\obj\Debug\TaskList.csproj.CopyComplete
+C:\Users\РахимовС\source\repos\TaskList\TaskList\TaskList\obj\Debug\TaskList.csprojAssemblyReference.cache
